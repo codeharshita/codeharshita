@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @codeharshita. I am a learner 
-- 👀 I’m interested in coding and developing apps and looking forward to learn more and more technologies. 
+- 👋 Hi, I’m @codeharshita. I am a learner.
+- 👀 I’m interested in coding, designing algorithms, developing apps and looking forward to learn more and more technologies. 
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my mailid "mailmeharshita24@gmail.com"
