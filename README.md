@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeharshita. I am a learner.
+- 👋 Hi, I’m @codeharshita. I am a Learning Worm.
 - 👀 I’m interested in coding, designing algorithms, developing apps and looking forward to learn more and more technologies. 
 - 🌱 I’m currently learning Android Development and creating websites through WIX. 
 - 💞️ I’m looking to collaborate on Open Source Projects.
