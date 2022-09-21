@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Yogic-Urbanic App**
 
-- 🌱 I’m currently learning **how to be good at logical thinking.**
+- 🌱 I’m currently upgrading my **logical thinking skills and use them to deal with real world problems.**
 
 - 💬 Ask me about **TechTalks, MAANG, Java, ReactJS, SQL etc**
 
