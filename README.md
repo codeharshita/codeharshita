@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋 Folks!! I am Harshita.</h1>
 <h3 align="center">A passionate programmer and life-long learner from INDIA..</h3>
+<img align = "right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeharshita&label=Profile%20views&color=0e75b6&style=flat" alt="codeharshita" /> </p>
 
