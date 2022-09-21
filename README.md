@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **how to be good at logical thinking.**
 
-- 💬 Ask me about **TechTalks, MAANG, Java, ReactJS, SQL etc**
+- 💬  **TechTalks, MAANG, Java, ReactJS, SQL etc..**
 
 - 📫 How to reach me **mailmeharshita24@gmail.com**
 
