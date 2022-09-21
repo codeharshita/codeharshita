@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeharshita&show_icons=true&locale=en" alt="codeharshita" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeharshita&" alt="codeharshita" /></p>
+
+Snake eating my contribution graph
+![snake gif](https://github.com/codeharshita/codeharshita/blob/output/github-contribution-grid-snake.gif)
