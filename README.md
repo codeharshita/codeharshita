@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer and life-long learner from INDIA.</h3>
 <img align = "right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeharshita&label=Profile%20views&color=0e75b6&style=flat" alt="codeharshita" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeharshita" alt="codeharshita" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeharshita" alt="codeharshita" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itz_harshita24" target="blank"><img src="https://img.shields.io/twitter/follow/itz_harshita24?logo=twitter&style=for-the-badge" alt="itz_harshita24" /></a> </p>
 
