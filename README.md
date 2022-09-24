@@ -12,7 +12,7 @@
 
 - 💬  **TechTalks, MAANG, Java, ReactJS, SQL etc..**
 
-- 📫 How to reach me **mailmeharshita24@gmail.com**
+- 📫 Connect with me- **mailmeharshita24@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
