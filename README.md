@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/itz_harshita24" target="blank"><img src="https://img.shields.io/twitter/follow/itz_harshita24?logo=twitter&style=for-the-badge" alt="itz_harshita24" /></a> </p>
 
+
+<img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
+
 - 🔭 I’m currently working on **Yogic-Urbanic App**
 
 - 🌱 I’m currently upgrading **my logical thinking skills.**
