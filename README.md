@@ -38,6 +38,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeharshita&" alt="codeharshita" /></p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=codeharshita&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 <b>Snake</b> eating my contribution graph
 ![snake gif](https://github.com/codeharshita/codeharshita/blob/output/github-contribution-grid-snake.gif)<br>
 
