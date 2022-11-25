@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Yogic-Urbanic App**
 
-- 🌱 I’m currently upgrading **my logical thinking skills.**
+- 🌱 I’m currently upgrading **my logical thinking skills as a java developer.**
 
 - 💬  **TechTalks, MAANG, Java, ReactJS, SQL etc..**
 
