@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Yogic-Urbanic App**
 
-- 🌱 I’m currently upgrading **my logical thinking skills as a java developer.**
+- 🌱 I’m currently upgrading **my logical thinking skills as a Java developer.**
 
 - 💬  **TechTalks, MAANG, Java, DSA, ReactJS, SQL etc..**
 
@@ -41,6 +41,6 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=codeharshita&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <b>Snake</b> eating my contribution graph
-![snake gif](https://github.com/codeharshita/codeharshita/blob/output/github-contribution-grid-snake.gif)<br>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
