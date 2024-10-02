@@ -50,9 +50,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeharshita&" alt="codeharshita" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=codeharshita&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=codeharshita&theme=react-dark&bg_color=20232a&hide_border=true" width="300%"/>
 
-<b>Snake</b> eating my contribution graph
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
