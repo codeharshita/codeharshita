@@ -48,11 +48,7 @@
 	<img width="150" src="https://login.salesforce.com/img/logo190.png" alt="Salesforce" title="Salesforce"/>
 </div></br>
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeharshita&" alt="codeharshita" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeharshita&" alt="codeharshita" width="500px" /></p>
 
 
 
