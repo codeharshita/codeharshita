@@ -2,12 +2,12 @@
 
 
 
-<h3 align="center">A passionate programmer and life-long learner from INDIA.</h3> 
+<h3 align="center">A passionate <b> Software Engineer </b> and life-long learner from INDIA.</h3> </br>
 
 
 <p style="text-align: center;"> <a href="https://twitter.com/itz_harshita24" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=codeharshita&title=-Stars,-Issues&theme=algolia" alt="itz_harshita24"/></a> </p>
 
-<img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif">
+<img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif"></br>
 
 - 🔭 I’m currently working on **Salesforce Integration**
 
@@ -17,7 +17,7 @@
 
 - 📫 Reach to me:- **mailmeharshita24@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am funny.**</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +26,9 @@
 <a href="https://instagram.com/harshita_9542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshita_9542" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hackerfolk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerfolk" height="30" width="40" /></a>
   <a href="https://www.codingninjas.com/codestudio/profile/aa5f68e4-6567-4028-97b7-f01c7bb6b780" target="blank"><img align="center"
-</p></br>
+</p></br></br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3></br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 	<img width="150" src="https://login.salesforce.com/img/logo190.png" alt="Salesforce" title="Salesforce"/>
