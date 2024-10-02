@@ -6,16 +6,21 @@
 
 
 <p style="text-align: center;"> <a href="https://twitter.com/itz_harshita24" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=codeharshita&title=-Stars,-Issues&theme=algolia" alt="itz_harshita24"/></a> </p>
+<div align="center"> 
+	<img align = "right" alt="Coding" width="350" height="300" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif"></br>
+</div>
 
-<img align = "right" alt="Coding" width="350" height="300" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif"></br>
+---
 
-- 🔭 I’m currently working on **Salesforce Integration**
+### :woman_technologist: About Me :
 
-- 🌱 I’m currently upgrading **my logical thinking skills as a Salesforce Developer**
+- 🔭 I’m currently working on **Salesforce Integration.**
+
+- 🌱 I’m currently upgrading **my logical thinking skills as a Salesforce Developer.**
 
 - 💬  **TechTalks, Salesforce Technology, Salesforce Admin, MAANG, Java, DSA, ReactJS, SQL, etc..**
 
-- 📫 Reach to me:- **mailmeharshita24@gmail.com**
+- 📫 Reach to me at :- **mailmeharshita24@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**</br>
 
@@ -28,7 +33,9 @@
   <a href="https://www.codingninjas.com/codestudio/profile/aa5f68e4-6567-4028-97b7-f01c7bb6b780" target="blank"><img align="center"
 </p></br></br>
 
-<h3 align="left">Languages and Tools:</h3></br>
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 	<img width="150" src="https://login.salesforce.com/img/logo190.png" alt="Salesforce" title="Salesforce"/>
@@ -56,10 +63,8 @@
 	
 </div></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeharshita&" alt="codeharshita" width="500px" /></p>
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeharshita&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="codeharshita" width="450px" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeharshita&theme=vue-dark&hide_border=true" alt="codeharshita" width="450px" /></p>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
