@@ -2,9 +2,7 @@
 
 
 
-<h3 align="center">A passionate programmer and life-long learner from INDIA.</h3>
-
-<code><img width="300" src="https://login.salesforce.com/img/logo190.png" alt="Salesforce" title="Salesforce"></code>
+<h3 align="center">A passionate programmer and life-long learner from INDIA.</h3> <img width="300" src="https://login.salesforce.com/img/logo190.png" alt="Salesforce" title="Salesforce">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeharshita" alt="codeharshita" /></a> </p>
 
