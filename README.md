@@ -30,7 +30,6 @@
   <a href="https://www.codingninjas.com/codestudio/profile/aa5f68e4-6567-4028-97b7-f01c7bb6b780" target="blank"><img align="center"
 </p></br>
 
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -45,6 +44,11 @@
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/> 
+	<img width="150" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Vscode" title="VScode"/>
+	<img width="150" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+	<img width="150" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/>
+	<img width="150" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+	<img width="150" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
 	<img width="150" src="https://login.salesforce.com/img/logo190.png" alt="Salesforce" title="Salesforce"/>
 </div></br>
 
