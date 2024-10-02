@@ -30,10 +30,10 @@
   <a href="https://www.codingninjas.com/codestudio/profile/aa5f68e4-6567-4028-97b7-f01c7bb6b780" target="blank"><img align="center"
 </p></br>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
