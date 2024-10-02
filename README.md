@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently upgrading **my logical thinking skills as a Salesforce Developer**
 
-- 💬  **TechTalks, MAANG, Java, DSA, ReactJS, SQL etc..**
+- 💬  **TechTalks, Salesforce Technology, Salesforce Admin, MAANG, Java, DSA, ReactJS, SQL, etc..**
 
 - 📫 Reach to me:- **mailmeharshita24@gmail.com**
 
