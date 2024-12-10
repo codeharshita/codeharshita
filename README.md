@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Salesforce Integration.**
 
-- 🌱 I’m currently upgrading **my logical thinking skills as a Salesforce Developer and frontend developer.**
+- 🌱 I’m currently upgrading **my logical thinking skills as a salesforce developer and frontend developer.**
 
 - 💬  **TechTalks, Salesforce Technology, Salesforce Admin, MAANG, Java, DSA, ReactJS, SQL, etc..**
 
