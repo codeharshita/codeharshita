@@ -29,7 +29,6 @@
 <a href="https://twitter.com/itz_harshita24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz_harshita24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshita srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshita srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/harshita_9542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshita_9542" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerfolk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerfolk" height="30" width="40" /></a>
   <a href="https://www.codingninjas.com/codestudio/profile/aa5f68e4-6567-4028-97b7-f01c7bb6b780" target="blank"><img align="center"
 </p></br></br>
 
