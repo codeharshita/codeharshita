@@ -6,9 +6,7 @@
 
 
 <p style="text-align: center;"> <a href="https://twitter.com/itz_harshita24" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=codeharshita&title=-Stars,-Issues&theme=algolia" alt="itz_harshita24"/></a> </p>
-<div align="center"> 
-	<img align = "right" alt="Coding" width="350" height="300" src="https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif"></br>
-</div>
+
 
 ---
 
